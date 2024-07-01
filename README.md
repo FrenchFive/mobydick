@@ -58,7 +58,7 @@ COPY THE OUTPUT.
 <br> Including "ssh-rsa ..."
 
 ONCE ACCEPTED ON THE WEBSITE.
-LOGIN :: [LOGIN PAGE](https://mobydick.ovh/users/sign_in)
+<br> LOGIN :: [LOGIN PAGE](https://mobydick.ovh/users/sign_in)
 
 ![image](https://github.com/FrenchFive/mobydick/assets/105274118/568bc404-6a1e-4aa4-beb6-537f4f056be2)
 
@@ -78,7 +78,41 @@ YOU SHOULD GET THIS :
 
 ![Sans titre-1](https://github.com/FrenchFive/mobydick/assets/105274118/5b89bd48-da36-4ec7-bf81-1147c05e3923)
 
-
+---
 
 ## 4 : CLONE THE PROJECT
 
+If the admin worked properly, he added you to your group. 
+<br> Or you can create your own.
+<br> Create projects ... etc ... 
+
+![image](https://github.com/FrenchFive/mobydick/assets/105274118/298ef135-6e73-4f4e-934a-d68df79cee91)
+
+ONCE YOU PICKED A PROJECT YOU WANT TO CLONE 
+<br> CLICK ON CODE > COPY THE SSH LINK
+
+![image](https://github.com/FrenchFive/mobydick/assets/105274118/32c0e50a-ab6f-4151-a7cf-96ee267b7a5c)
+
+SELECT THE FOLDER YOU WANT THE PROJECT TO BE AT
+<br> Option 1 : SIMPLE : Right Click in the File Explorer and Select "Open in the Terminal"
+
+![image](https://github.com/FrenchFive/mobydick/assets/105274118/bc4c5db5-9944-4a8c-8dd9-7807c7198ce9)
+
+Option 2 : CODE : Open the **POWERSHELL**
+<br> Copy the path to your directory [Your path needs to exists already]
+<br> TYPE : 
+```batch
+cd D:\YOUR\PATH
+```
+![image](https://github.com/FrenchFive/mobydick/assets/105274118/074dc0bb-9473-45ac-a25b-8b1fd3d40ef6)
+
+WHATEVER THE OPTION YOU PICKED.
+<br> You should end up with the blue line. **WHICH SHOULD BE YOUR PATH**
+
+TO CLONE YOU WILL NEED TO TYPE : 
+```batch
+git clone LINK
+```
+LINK :: The link we copied earlier
+
+![image](https://github.com/FrenchFive/mobydick/assets/105274118/f4b2ae98-6d58-4d13-be31-5b2e085d1274)
