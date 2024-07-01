@@ -30,6 +30,13 @@ GO TO :: [MOBYDICK](https://mobydick.ovh/users/sign_up)
 
 ---
 
+<p align="center">
+<img src="https://github.com/FrenchFive/mobydick/assets/105274118/00557eb6-4c1b-43ac-874f-beecc3f67c59">
+</p>
+<p align="center">
+- FINISHED STEP 1 -
+</p>
+
 ## 2 : INSTALL GIT
 
 GO TO :: [GIT](https://git-scm.com/download/win)
@@ -42,6 +49,13 @@ GO TO :: [GIT](https://git-scm.com/download/win)
 > <br> No need to open it at the end, nor to open the webpage
 
 ---
+
+<p align="center">
+<img src="https://github.com/FrenchFive/mobydick/assets/105274118/00557eb6-4c1b-43ac-874f-beecc3f67c59">
+</p>
+<p align="center">
+- FINISHED STEP 2 -
+</p>
 
 ## 3 : CREATE AN SSH KEY
 
@@ -92,6 +106,13 @@ YOU SHOULD GET THIS :
 
 ---
 
+<p align="center">
+<img src="https://github.com/FrenchFive/mobydick/assets/105274118/00557eb6-4c1b-43ac-874f-beecc3f67c59">
+</p>
+<p align="center">
+- FINISHED STEP 3 -
+</p>
+
 ## 4 : CLONE THE PROJECT
 
 If the admin worked properly, he added you to your group. 
@@ -130,4 +151,12 @@ LINK :: The link we copied earlier
 ![image](https://github.com/FrenchFive/mobydick/assets/105274118/f4b2ae98-6d58-4d13-be31-5b2e085d1274)
 
 ---
+
+<p align="center">
+<img src="https://github.com/FrenchFive/mobydick/assets/105274118/00557eb6-4c1b-43ac-874f-beecc3f67c59">
+</p>
+<p align="center">
+- FINISHED STEP 4 -
+</p>
+
 YOU ARE DONE !!!
