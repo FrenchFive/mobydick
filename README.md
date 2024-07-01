@@ -14,6 +14,7 @@ HELP TO GET ACCESS TO MOBYDICK.OVH
 | `git commit` | Make all files tracked part of the next Push // (-m is **OBLIGATORY** and is the title of your Push - Should be easy to understand) | git commit -m "TEST" |
 | `git push` | Upload to the server all add and comitted files | - |
 
+# SETUP
 
 ## 1 : CREATE AN ACCOUNT INTO MOBYDICK.OVH
 
