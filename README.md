@@ -2,6 +2,9 @@
 HELP TO GET ACCESS TO MOBYDICK.OVH
 
 ## COMMANDS TO REMEMBER 
+
+(this is for future you, if i dont code an interface)
+
 | COMMAND LINE | PURPOSE | EXEMPLE |
 |  :-: | :-: | :-: |
 | `git clone` | Clone a project locally | git clone git@mobydick.ovh:mobydick/cowbot.git |
