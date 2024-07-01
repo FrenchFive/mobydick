@@ -2,7 +2,15 @@
 HELP TO GET ACCESS TO MOBYDICK.OVH
 
 ## COMMANDS TO REMEMBER 
-( this part is here for future you )
+| COMMAND LINE | PURPOSE | EXEMPLE |
+|  :-: | :-: | :-: |
+| `git clone` | Clone a project locally | git clone git@mobydick.ovh:mobydick/cowbot.git |
+| `git status` | Get the difference between the local version and the server version | - |
+| `git pull` | Download the difference between the server and the local version | - |
+| `git add` | Make Git Track the file you want to upload | git add test.txt // git add . |
+| `git commit` | Make all files tracked part of the next Push // (-m is **OBLIGATORY** and is the title of your Push - Should be easy to understand) | git commit -m "TEST" |
+| `git push` | Upload to the server all add and comitted files | - |
+
 
 ## 1 : CREATE AN ACCOUNT INTO MOBYDICK.OVH
 
@@ -116,3 +124,6 @@ git clone LINK
 LINK :: The link we copied earlier
 
 ![image](https://github.com/FrenchFive/mobydick/assets/105274118/f4b2ae98-6d58-4d13-be31-5b2e085d1274)
+
+---
+YOU ARE DONE !!!
