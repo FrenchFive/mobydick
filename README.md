@@ -16,9 +16,69 @@ GO TO :: [MOBYDICK](https://mobydick.ovh/users/sign_up)
 
 ![image](https://github.com/FrenchFive/mobydick/assets/105274118/9a3cc364-c48b-4219-998a-560dde787c7a)
 
+---
 
 ## 2 : INSTALL GIT
 
+GO TO :: [GIT](https://git-scm.com/download/win)
+<br> And download Git for Windows (if you are on Windows)
+
+![image](https://github.com/FrenchFive/mobydick/assets/105274118/c1399ef4-a393-43ed-b208-a3ed234893a7)
+
+> [!NOTE]
+> **EVERYTHING AS DEFAULT WORKS PERFECTLY**
+> <br> No need to open it at the end, nor to open the webpage
+
+---
+
 ## 3 : CREATE AN SSH KEY
 
+Just so you know : Passwords are cool, but can be cracked, the goal here is to generate a unique key that your computer and the server will have, instead of typing your password, the server will ask for your key and compare it to the server. If they match, then you'll be able to edit and change things as you want from command lines without having to go through the website.
+
+OPEN :: **WINDOWS POWERSHELL**
+<br> TYPE :
+```batch
+ssh-keygen
+```
+![image](https://github.com/FrenchFive/mobydick/assets/105274118/7f66183c-b873-48fd-874c-b7f5ca73eca7)
+
+> [!TIP]
+> Giving the ASKED INFORMATION IS **FACULTATIVE**. 
+> <br> You can skip it by pressing the "Enter" Key.
+
+We want to get the key and copy it to the website.
+<br> STILL IN THE **POWERSHELL**
+<br> TYPE : 
+```batch
+cat ~/.ssh/id_rsa.pub
+```
+![Sans titre-1](https://github.com/FrenchFive/mobydick/assets/105274118/e2a576f4-4adc-4833-bc1e-7ca8bfe976f0)
+
+COPY THE OUTPUT.
+<br> Including "ssh-rsa ..."
+
+ONCE ACCEPTED ON THE WEBSITE.
+LOGIN :: [LOGIN PAGE](https://mobydick.ovh/users/sign_in)
+
+![image](https://github.com/FrenchFive/mobydick/assets/105274118/568bc404-6a1e-4aa4-beb6-537f4f056be2)
+
+GO INTO YOUR PREFERENCES.
+
+![image](https://github.com/FrenchFive/mobydick/assets/105274118/a9fd8262-cb40-434c-ac8d-22008add9bfa)
+
+![image](https://github.com/FrenchFive/mobydick/assets/105274118/a73a2ad9-6732-4769-9d79-244eab2bcbf4)
+
+AND ADD A NEW KEY
+
+![image](https://github.com/FrenchFive/mobydick/assets/105274118/3c097db1-ca91-4d9e-950e-1ec640c3d6e5)
+
+PASTE YOUR COPIED KEY INTO THE FIELD
+
+YOU SHOULD GET THIS :
+
+![Sans titre-1](https://github.com/FrenchFive/mobydick/assets/105274118/5b89bd48-da36-4ec7-bf81-1147c05e3923)
+
+
+
 ## 4 : CLONE THE PROJECT
+
