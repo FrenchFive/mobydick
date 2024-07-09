@@ -145,6 +145,13 @@ LINK :: The link we copied earlier
 
 ![image](https://github.com/FrenchFive/mobydick/assets/105274118/f4b2ae98-6d58-4d13-be31-5b2e085d1274)
 
+Once the dowload is done : 
+<br> **RUN** the setup.py
+
+![image](https://github.com/FrenchFive/mobydick/assets/105274118/f1fb93f7-4764-448f-8c05-19502d9bc23f)
+
+You should be done !!! 
+
 ---
 
 <p align="center">
