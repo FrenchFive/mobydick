@@ -1,19 +1,6 @@
 # MOBYDICK
 HELP TO GET ACCESS TO MOBYDICK.OVH
 
-## COMMANDS TO REMEMBER 
-
-(this is for future you, if i dont code an interface)
-
-| COMMAND LINE | PURPOSE | EXEMPLE |
-|  :-: | :-: | :-: |
-| `git clone` | Clone a project locally | git clone git@mobydick.ovh:mobydick/cowbot.git |
-| `git status` | Get the difference between the local version and the server version | - |
-| `git pull` | Download the difference between the server and the local version | - |
-| `git add` | Make Git Track the file you want to upload | git add test.txt // git add . |
-| `git commit` | Make all files tracked part of the next Push // (-m is **OBLIGATORY** and is the title of your Push - Should be easy to understand) | git commit -m "TEST" |
-| `git push` | Upload to the server all add and comitted files | - |
-
 # SETUP
 
 ## 1 : CREATE AN ACCOUNT INTO MOBYDICK.OVH
@@ -37,7 +24,7 @@ GO TO :: [MOBYDICK](https://mobydick.ovh/users/sign_up)
 - FINISHED STEP 1 -
 </p>
 
-## 2 : INSTALL GIT
+## 2 : INSTALL GIT & PYTHON
 
 GO TO :: [GIT](https://git-scm.com/download/win)
 <br> And download Git for Windows (if you are on Windows)
@@ -47,6 +34,14 @@ GO TO :: [GIT](https://git-scm.com/download/win)
 > [!NOTE]
 > **EVERYTHING AS DEFAULT WORKS PERFECTLY**
 > <br> No need to open it at the end, nor to open the webpage
+
+GO TO :: [PYTHON](https://www.python.org/downloads/)
+<br> And download the lastest Python for Windows
+
+![image](https://github.com/FrenchFive/mobydick/assets/105274118/8317865d-a3c2-40ea-8f6a-21379c3b743f)
+
+> [!NOTE]
+> **EVERYTHING AS DEFAULT WORKS PERFECTLY**
 
 ---
 
@@ -160,3 +155,17 @@ LINK :: The link we copied earlier
 </p>
 
 YOU ARE DONE !!!
+
+
+## COMMANDS TO REMEMBER 
+
+(this is for future you, if i dont code an interface)
+
+| COMMAND LINE | PURPOSE | EXEMPLE |
+|  :-: | :-: | :-: |
+| `git clone` | Clone a project locally | git clone git@mobydick.ovh:mobydick/cowbot.git |
+| `git status` | Get the difference between the local version and the server version | - |
+| `git pull` | Download the difference between the server and the local version | - |
+| `git add` | Make Git Track the file you want to upload | git add test.txt // git add . |
+| `git commit` | Make all files tracked part of the next Push // (-m is **OBLIGATORY** and is the title of your Push - Should be easy to understand) | git commit -m "TEST" |
+| `git push` | Upload to the server all add and comitted files | - |
